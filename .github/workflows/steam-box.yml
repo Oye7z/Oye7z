@@ -2,11 +2,14 @@ name: Update steam playtime
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master]
+    branches: [main]
   schedule:
     - cron: "10 * * * *"
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -20,8 +23,6 @@ jobs:
       UPDATE_OPTION: GIST_AND_MARKDOWN
       MARKDOWN_FILE: README.md
       STEAM_OPTION: RECENT
-
-
     steps:
       - name: Set up Go 1.x
         uses: actions/setup-go@v2
@@ -43,4 +44,4 @@ jobs:
           git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
-          git pull && git push
+          git pull && git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Oye7z/Oye7z.git
