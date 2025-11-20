@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 Escape from Duckov               🕘 44 hrs 43 mins
 🎮 Lies of P                        🕘 9 hrs 57 mins
 🎮 Escape the Backrooms             🕘 8 hrs 5 mins
-🎮 Sultan's Game                    🕘 91 hrs 44 mins
+🎮 Sultan's Game                    🕘 92 hrs 12 mins
 💻 Wallpaper Engine                 🕘 60 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
