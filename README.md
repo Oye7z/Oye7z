@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Lies of P                        🕘 9 hrs 57 mins
+🎮 Escape from Duckov               🕘 46 hrs 13 mins
 🎮 Escape the Backrooms             🕘 8 hrs 5 mins
-🎮 Escape from Duckov               🕘 45 hrs 13 mins
 🎮 Sultan's Game                    🕘 92 hrs 12 mins
 💻 Wallpaper Engine                 🕘 60 hrs 53 mins
 ```
