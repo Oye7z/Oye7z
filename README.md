@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 Escape from Duckov               🕘 48 hrs 47 mins
 🎮 Lies of P                        🕘 9 hrs 57 mins
 🎮 Escape the Backrooms             🕘 8 hrs 5 mins
-🎮 S.T.A.L.K.E.R. 2: Heart of Chornobyl 🕘 4 hrs 21 mins
+🎮 S.T.A.L.K.E.R. 2: Heart of Chornobyl 🕘 5 hrs 16 mins
 🎮 Sultan's Game                    🕘 92 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
