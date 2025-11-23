@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 🎮 Escape from Duckov               🕘 50 hrs 4 mins
 🎮 Lies of P                        🕘 9 hrs 57 mins
 🎮 Escape the Backrooms             🕘 8 hrs 5 mins
+🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 3 hrs 32 mins
 🎮 S.T.A.L.K.E.R. 2: Heart of Chornobyl 🕘 5 hrs 16 mins
-🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 2 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
