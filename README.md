@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 25 hrs 28 mins
+🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 26 hrs 28 mins
 🎮 Escape from Duckov               🕘 50 hrs 4 mins
 🎮 S.T.A.L.K.E.R. 2: Heart of Chornobyl 🕘 5 hrs 16 mins
-🎮 Lies of P                        🕘 9 hrs 57 mins
 🎮 No Rest for the Wicked           🕘 2 hrs 4 mins
+🎮 Sultan's Game                    🕘 92 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
