@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎮 Escape from Duckov               🕘 50 hrs 4 mins
 🎮 S.T.A.L.K.E.R. 2: Heart of Chornobyl 🕘 5 hrs 16 mins
 🎮 No Rest for the Wicked           🕘 2 hrs 26 mins
-🎮 ELDEN RING NIGHTREIGN            🕘 129 hrs 51 mins
+🎮 ELDEN RING NIGHTREIGN            🕘 130 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
