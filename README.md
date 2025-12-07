@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 32 hrs 16 mins
-🎮 ELDEN RING NIGHTREIGN            🕘 136 hrs 37 mins
+🎮 ELDEN RING NIGHTREIGN            🕘 137 hrs 38 mins
 🎮 No Rest for the Wicked           🕘 2 hrs 26 mins
 🎮 Apex Legends                     🕘 623 hrs 45 mins
 💻 Wallpaper Engine                 🕘 61 hrs 9 mins
