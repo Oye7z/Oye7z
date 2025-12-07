@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 32 hrs 16 mins
 🎮 ELDEN RING NIGHTREIGN            🕘 133 hrs 7 mins
 🎮 No Rest for the Wicked           🕘 2 hrs 26 mins
-🎮 S.T.A.L.K.E.R. 2: Heart of Chornobyl 🕘 5 hrs 16 mins
 🎮 Escape from Duckov               🕘 50 hrs 4 mins
+🎮 S.T.A.L.K.E.R. 2: Heart of Chornobyl 🕘 5 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
