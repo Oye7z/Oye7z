@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 🎮 Apex Legends                     🕘 623 hrs 45 mins
 🎮 No Rest for the Wicked           🕘 2 hrs 26 mins
 💻 Wallpaper Engine                 🕘 61 hrs 21 mins
-🎮 FINAL FANTASY VII REMAKE INTERGRADE 🕘 32 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
