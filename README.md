@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 ELDEN RING NIGHTREIGN            🕘 141 hrs 3 mins
 🎮 Apex Legends                     🕘 623 hrs 45 mins
 🎮 No Rest for the Wicked           🕘 2 hrs 26 mins
-💻 Wallpaper Engine                 🕘 61 hrs 21 mins
+💻 Wallpaper Engine                 🕘 61 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
