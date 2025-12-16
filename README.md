@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 ELDEN RING NIGHTREIGN            🕘 141 hrs 3 mins
-💻 Wallpaper Engine                 🕘 61 hrs 23 mins
+💻 Wallpaper Engine                 🕘 61 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
