@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 ELDEN RING NIGHTREIGN            🕘 150 hrs 56 mins
 🎮 Outlast                          🕘 7 hrs 20 mins
-💻 Wallpaper Engine                 🕘 61 hrs 33 mins
+💻 Wallpaper Engine                 🕘 61 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
