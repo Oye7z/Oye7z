@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 ELDEN RING NIGHTREIGN            🕘 155 hrs 1 mins
 🎮 Outlast                          🕘 7 hrs 20 mins
+🎮 Halo: The Master Chief Collection 🕘 0 hrs 34 mins
 💻 Wallpaper Engine                 🕘 61 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
