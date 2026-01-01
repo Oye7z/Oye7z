@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 ELDEN RING NIGHTREIGN            🕘 159 hrs 53 mins
 🎮 Outlast                          🕘 7 hrs 20 mins
-🎮 Lies of P                        🕘 12 hrs 5 mins
+🎮 Lies of P                        🕘 13 hrs 1 mins
 🎮 Halo: The Master Chief Collection 🕘 0 hrs 34 mins
 💻 Wallpaper Engine                 🕘 61 hrs 42 mins
 ```
