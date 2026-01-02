@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎮 Lies of P                        🕘 14 hrs 44 mins
 🎮 Outlast                          🕘 7 hrs 20 mins
 🎮 Halo: The Master Chief Collection 🕘 0 hrs 34 mins
-💻 Wallpaper Engine                 🕘 61 hrs 42 mins
+💻 Wallpaper Engine                 🕘 61 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
