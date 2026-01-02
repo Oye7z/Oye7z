@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 ELDEN RING NIGHTREIGN            🕘 160 hrs 39 mins
-🎮 Lies of P                        🕘 13 hrs 31 mins
+🎮 Lies of P                        🕘 14 hrs 44 mins
 🎮 Outlast                          🕘 7 hrs 20 mins
 🎮 Halo: The Master Chief Collection 🕘 0 hrs 34 mins
 💻 Wallpaper Engine                 🕘 61 hrs 42 mins
