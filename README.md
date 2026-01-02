@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 ELDEN RING NIGHTREIGN            🕘 159 hrs 53 mins
+🎮 ELDEN RING NIGHTREIGN            🕘 160 hrs 24 mins
 🎮 Outlast                          🕘 7 hrs 20 mins
 🎮 Lies of P                        🕘 13 hrs 1 mins
 🎮 Halo: The Master Chief Collection 🕘 0 hrs 34 mins
