@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 ELDEN RING NIGHTREIGN            🕘 167 hrs 23 mins
 🎮 Lies of P                        🕘 14 hrs 44 mins
-🎮 Kingdom Come: Deliverance II     🕘 3 hrs 16 mins
+🎮 Kingdom Come: Deliverance II     🕘 3 hrs 47 mins
 💻 Wallpaper Engine                 🕘 62 hrs 14 mins
 🎮 Halo: The Master Chief Collection 🕘 0 hrs 34 mins
 ```
