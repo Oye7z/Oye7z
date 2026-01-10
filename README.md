@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 ELDEN RING NIGHTREIGN            🕘 173 hrs 18 mins
 🎮 Kingdom Come: Deliverance II     🕘 16 hrs 58 mins
 🎮 Lies of P                        🕘 14 hrs 44 mins
-💻 Wallpaper Engine                 🕘 62 hrs 23 mins
+💻 Wallpaper Engine                 🕘 62 hrs 30 mins
 🎮 Halo: The Master Chief Collection 🕘 0 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
