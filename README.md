@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Kingdom Come: Deliverance II     🕘 58 hrs 44 mins
-🎮 ELDEN RING NIGHTREIGN            🕘 174 hrs 18 mins
+🎮 Kingdom Come: Deliverance II     🕘 59 hrs 44 mins
+🎮 ELDEN RING NIGHTREIGN            🕘 174 hrs 44 mins
 💻 Wallpaper Engine                 🕘 62 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
