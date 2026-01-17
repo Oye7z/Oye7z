@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 Kingdom Come: Deliverance II     🕘 60 hrs 0 mins
 🎮 ELDEN RING NIGHTREIGN            🕘 174 hrs 44 mins
 💻 Wallpaper Engine                 🕘 62 hrs 48 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 196 hrs 3 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 196 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
