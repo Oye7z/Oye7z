@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Kingdom Come: Deliverance II     🕘 67 hrs 52 mins
-🎮 ELDEN RING NIGHTREIGN            🕘 175 hrs 45 mins
+🎮 ELDEN RING NIGHTREIGN            🕘 176 hrs 30 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 196 hrs 19 mins
 💻 Wallpaper Engine                 🕘 62 hrs 54 mins
 ```
