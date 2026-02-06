@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 ELDEN RING NIGHTREIGN            🕘 190 hrs 17 mins
 🎮 Kingdom Come: Deliverance II     🕘 73 hrs 48 mins
-💻 Wallpaper Engine                 🕘 63 hrs 15 mins
+💻 Wallpaper Engine                 🕘 63 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
