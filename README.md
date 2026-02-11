@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Kingdom Come: Deliverance II     🕘 87 hrs 47 mins
 🎮 ELDEN RING NIGHTREIGN            🕘 196 hrs 9 mins
+🎮 Divinity: Original Sin Enhanced Edition 🕘 1 hrs 4 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 197 hrs 14 mins
 💻 Wallpaper Engine                 🕘 63 hrs 24 mins
 ```
