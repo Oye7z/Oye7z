@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Kingdom Come: Deliverance II     🕘 88 hrs 17 mins
+🎮 Kingdom Come: Deliverance II     🕘 89 hrs 48 mins
 🎮 ELDEN RING NIGHTREIGN            🕘 196 hrs 9 mins
 🎮 Apex Legends                     🕘 625 hrs 15 mins
 🎮 Divinity: Original Sin Enhanced Edition 🕘 1 hrs 4 mins
