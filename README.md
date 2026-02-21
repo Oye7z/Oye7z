@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 🎮 Kingdom Come: Deliverance II     🕘 95 hrs 8 mins
 🎮 ELDEN RING NIGHTREIGN            🕘 196 hrs 9 mins
 🎮 Divinity: Original Sin Enhanced Edition 🕘 2 hrs 30 mins
+🎮 Darkest Dungeon®                 🕘 35 hrs 46 mins
 🎮 Balatro                          🕘 44 hrs 20 mins
-🎮 Darkest Dungeon®                 🕘 35 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
