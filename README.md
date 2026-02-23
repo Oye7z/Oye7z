@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Kingdom Come: Deliverance II     🕘 95 hrs 8 mins
-🎮 Darkest Dungeon®                 🕘 41 hrs 9 mins
+🎮 Darkest Dungeon®                 🕘 41 hrs 17 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 198 hrs 55 mins
 🎮 Divinity: Original Sin Enhanced Edition 🕘 2 hrs 30 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 198 hrs 44 mins
 🎮 Balatro                          🕘 44 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
