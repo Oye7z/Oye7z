@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎮 Darkest Dungeon®                 🕘 41 hrs 17 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 198 hrs 55 mins
 🎮 Divinity: Original Sin Enhanced Edition 🕘 2 hrs 30 mins
-🎮 Balatro                          🕘 44 hrs 20 mins
+🎮 Stellar Blade™                   🕘 47 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
