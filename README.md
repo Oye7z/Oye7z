@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Kingdom Come: Deliverance II     🕘 95 hrs 8 mins
 🎮 Darkest Dungeon®                 🕘 41 hrs 17 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 198 hrs 55 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 199 hrs 59 mins
 🎮 Divinity: Original Sin Enhanced Edition 🕘 2 hrs 30 mins
 🎮 Stellar Blade™                   🕘 47 hrs 13 mins
 ```
