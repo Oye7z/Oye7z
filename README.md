@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Darkest Dungeon®                 🕘 41 hrs 17 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 203 hrs 52 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 204 hrs 22 mins
 🎮 Kingdom Come: Deliverance II     🕘 98 hrs 31 mins
 🎮 Stellar Blade™                   🕘 47 hrs 13 mins
 🎮 Balatro                          🕘 44 hrs 20 mins
