@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Kingdom Come: Deliverance II     🕘 110 hrs 46 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 205 hrs 2 mins
+🎮 Kingdom Come: Deliverance II     🕘 111 hrs 16 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 206 hrs 6 mins
 🎮 Darkest Dungeon®                 🕘 41 hrs 17 mins
 🎮 Stellar Blade™                   🕘 47 hrs 13 mins
 🎮 Balatro                          🕘 44 hrs 20 mins
