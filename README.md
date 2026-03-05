@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🍳 PUBG: BATTLEGROUNDS              🕘 207 hrs 26 mins
 🎮 Darkest Dungeon®                 🕘 41 hrs 17 mins
 🎮 Stellar Blade™                   🕘 47 hrs 13 mins
-🎮 Balatro                          🕘 44 hrs 20 mins
+💻 Wallpaper Engine                 🕘 63 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
