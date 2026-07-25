@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Resident Evil 4                  🕘 20 hrs 17 mins
 🎮 Resident Evil Requiem            🕘 42 hrs 44 mins
-🎮 Clair Obscur: Expedition 33      🕘 50 hrs 49 mins
+🎮 Clair Obscur: Expedition 33      🕘 52 hrs 19 mins
 🎮 Apex Legends                     🕘 627 hrs 40 mins
 💻 Wallpaper Engine                 🕘 66 hrs 36 mins
 ```
