@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Resident Evil 4                  🕘 20 hrs 17 mins
 🎮 Clair Obscur: Expedition 33      🕘 53 hrs 46 mins
+🎮 Resident Evil 4                  🕘 20 hrs 17 mins
 🎮 Resident Evil Requiem            🕘 42 hrs 44 mins
 🎮 Apex Legends                     🕘 627 hrs 40 mins
 💻 Wallpaper Engine                 🕘 66 hrs 36 mins
