@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 🎮 Clair Obscur: Expedition 33      🕘 73 hrs 8 mins
 🎮 Resident Evil Requiem            🕘 42 hrs 44 mins
 🎮 Apex Legends                     🕘 627 hrs 40 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 906 hrs 37 mins
 💻 Wallpaper Engine                 🕘 66 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
