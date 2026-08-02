@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Clair Obscur: Expedition 33      🕘 74 hrs 3 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 908 hrs 13 mins
 🎮 Resident Evil Requiem            🕘 42 hrs 44 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 907 hrs 28 mins
 🎮 Apex Legends                     🕘 627 hrs 40 mins
 💻 Wallpaper Engine                 🕘 66 hrs 36 mins
 ```
