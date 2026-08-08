@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Clair Obscur: Expedition 33      🕘 80 hrs 52 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 911 hrs 18 mins
-🎮 Resident Evil Requiem            🕘 44 hrs 18 mins
+🎮 Resident Evil Requiem            🕘 45 hrs 18 mins
 🎮 Wandering Sword                  🕘 1 hrs 31 mins
 🎮 Apex Legends                     🕘 628 hrs 9 mins
 ```
