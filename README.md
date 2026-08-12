@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🔫 Tom Clancy's Rainbow Six Siege   🕘 917 hrs 23 mins
 🎮 Resident Evil Requiem            🕘 45 hrs 51 mins
 🎮 Apex Legends                     🕘 629 hrs 19 mins
-🎮 Wandering Sword                  🕘 1 hrs 31 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 234 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
