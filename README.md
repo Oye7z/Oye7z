@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Clair Obscur: Expedition 33      🕘 100 hrs 35 mins
+🎮 ELDEN RING                       🕘 274 hrs 46 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 918 hrs 53 mins
-🎮 ELDEN RING                       🕘 274 hrs 16 mins
 🎮 Resident Evil Requiem            🕘 45 hrs 51 mins
 🎮 Apex Legends                     🕘 629 hrs 19 mins
 ```
