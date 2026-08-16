@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Clair Obscur: Expedition 33      🕘 100 hrs 35 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 918 hrs 53 mins
-🎮 ELDEN RING                       🕘 268 hrs 16 mins
+🎮 ELDEN RING                       🕘 268 hrs 46 mins
 🎮 Resident Evil Requiem            🕘 45 hrs 51 mins
 🎮 Apex Legends                     🕘 629 hrs 19 mins
 ```
