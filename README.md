@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎮 ELDEN RING                       🕘 276 hrs 28 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 919 hrs 50 mins
 🎮 Resident Evil Requiem            🕘 45 hrs 51 mins
-🎮 Apex Legends                     🕘 629 hrs 19 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 234 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
