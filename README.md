@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```text
 🎮 Clair Obscur: Expedition 33      🕘 100 hrs 35 mins
 🎮 ELDEN RING                       🕘 276 hrs 28 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 920 hrs 35 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 921 hrs 32 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 234 hrs 9 mins
 🎮 Black Myth: Wukong               🕘 77 hrs 20 mins
 ```
