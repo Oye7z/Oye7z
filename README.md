@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 ELDEN RING                       🕘 276 hrs 28 mins
 🎮 Clair Obscur: Expedition 33      🕘 100 hrs 35 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 921 hrs 32 mins
-🎮 Black Myth: Wukong               🕘 82 hrs 13 mins
+🎮 Black Myth: Wukong               🕘 83 hrs 13 mins
 🎮 Life is Strange™                 🕘 7 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
