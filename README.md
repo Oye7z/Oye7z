@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎮 ELDEN RING                       🕘 276 hrs 28 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 921 hrs 32 mins
 🎮 Life is Strange™                 🕘 7 hrs 56 mins
-🎮 Black Myth: Wukong               🕘 78 hrs 20 mins
+🎮 Black Myth: Wukong               🕘 79 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
