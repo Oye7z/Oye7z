@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Black Myth: Wukong               🕘 91 hrs 43 mins
+🎮 Black Myth: Wukong               🕘 95 hrs 44 mins
 🎮 ELDEN RING                       🕘 276 hrs 28 mins
-🎮 Clair Obscur: Expedition 33      🕘 100 hrs 35 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 923 hrs 9 mins
 🎮 Life is Strange™                 🕘 7 hrs 56 mins
+🎮 Clair Obscur: Expedition 33      🕘 100 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
