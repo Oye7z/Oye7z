@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Black Myth: Wukong               🕘 106 hrs 16 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 924 hrs 20 mins
 🎮 Life is Strange™                 🕘 7 hrs 56 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 924 hrs 5 mins
 🎮 ASTLIBRA ～生きた証～ Revision   🕘 58 hrs 53 mins
 💻 Wallpaper Engine                 🕘 67 hrs 3 mins
 ```
