@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ```text
 🎮 Black Myth: Wukong               🕘 106 hrs 16 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 928 hrs 10 mins
+🎮 Onimusha: Way of the Sword       🕘 4 hrs 58 mins
 🎮 Mafia: Definitive Edition        🕘 7 hrs 57 mins
 🎮 Life is Strange™                 🕘 7 hrs 56 mins
-🎮 ASTLIBRA ～生きた証～ Revision   🕘 58 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
