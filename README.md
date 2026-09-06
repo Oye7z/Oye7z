@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/47453a1c5c38b7742b7a276d212a5abf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Black Myth: Wukong               🕘 106 hrs 16 mins
-🎮 Onimusha: Way of the Sword       🕘 12 hrs 19 mins
+🎮 Onimusha: Way of the Sword       🕘 14 hrs 38 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 928 hrs 10 mins
 🎮 Mafia: Definitive Edition        🕘 7 hrs 57 mins
 🎮 ASTLIBRA ～生きた証～ Revision   🕘 58 hrs 53 mins
